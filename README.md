@@ -11,3 +11,5 @@
 * Organization and control process of software testing, code review.
 
 High personal efficiency, a constructive approach in tackling the difficult goals, ready to work in multitasking mode. Effective in starting new software products. I can structure processes, work in changing conditions. High motivation to learn and use new IT-practices and development approaches.
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zudochkin)
